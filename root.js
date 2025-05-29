@@ -24,11 +24,11 @@ window.Cardlinks = window.Cardlinks || {};
     const DEFAULT_CONFIG = {
         // Ścieżki do plików biblioteki
         paths: {
-            rootCSS: 'root.css',
-            css: 'src/cardlinks.css',
-            js: 'src/cardlinks.js',
-            links: 'src/cardlinks-links.js',
-            config: 'src/config.js'
+            rootCSS: 'https://cdn.jsdelivr.net/gh/skokivPr/carrd@refs/heads/main/root.css',
+            css: 'https://cdn.jsdelivr.net/gh/skokivPr/carrd@refs/heads/main/cardlinks.css',
+            js: 'https://cdn.jsdelivr.net/gh/skokivPr/carrd@refs/heads/main/src/cardlinks.js',
+            links: 'https://cdn.jsdelivr.net/gh/skokivPr/carrd@refs/heads/main/src/cardlinks-links.js',
+            config: 'https://cdn.jsdelivr.net/gh/skokivPr/carrd@refs/heads/main/src/config.js'
         },
 
         // Ustawienia inicjalizacji
